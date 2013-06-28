@@ -1,0 +1,6 @@
+O protótipo da interface utilizada no projeto pode ser visualizada pelo link:
+
+https://www.dropbox.com/s/syd33jvuizesm67/Interface_Projeto.pdf
+
+
+O protótipo foi construído na ferramenta Cacoo.

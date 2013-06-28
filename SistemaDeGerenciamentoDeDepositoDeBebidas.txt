@@ -1,0 +1,17 @@
+*Nome do Projeto:*
+
+Sistema de Gerenciamento de Depósito de Bebidas 
+
+*Descrição:*
+
+Projeto formado pelos alunos:
+	-Murilo Frade Medeiros
+	-Johann Hakkinen
+
+
+O Sistema  de Gerenciamento de Depósito de Bebidas tem como objetivo fazer um controle do 
+estoque e venda de produtos de um depósito.
+
+A descrição mais detalhada se encontra no próprio  grupo  das  disciplina no Facebook com 
+todas as especificações do projeto. O link para as especificações é: http://bit.ly/14BgGk7
+
